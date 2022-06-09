@@ -3,7 +3,7 @@ import numpy as np
 
 cpf = input("CPF:")
 digitos = [int(a) for a in str(cpf)]
-mult = [11,10,9,8,7,6,5,4,3,2]
+mult = [11, 10, 9, 8, 7, 6, 5, 4, 3, 2]
 x = ()
 y = ()
 
